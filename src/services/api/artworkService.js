@@ -63,8 +63,29 @@ class ArtworkService {
       throw new Error('Artwork not found')
     }
     
-    this.artworks.splice(index, 1)
+this.artworks.splice(index, 1)
     return true
+  }
+
+  async toggleLike(id) {
+    // Simulate API delay
+    await new Promise(resolve => setTimeout(resolve, 200))
+    
+    // Validate id is integer
+    if (!Number.isInteger(id)) {
+      throw new Error('Invalid artwork ID')
+    }
+    
+    const artwork = this.artworks.find(a => a.Id === id)
+    if (!artwork) {
+      throw new Error('Artwork not found')
+    }
+    
+    // Toggle like count (simplified - in real app would track user likes)
+    artwork.likes = (artwork.likes || 0) + (Math.random() > 0.5 ? 1 : -1)
+    artwork.likes = Math.max(0, artwork.likes) // Prevent negative likes
+    
+    return artwork
   }
 }
 
