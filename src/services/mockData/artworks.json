@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "promptId": 1,
+    "artistName": "Sarah Chen",
+    "imageUrl": "https://images.unsplash.com/photo-1577027662939-724b71cb8839?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "likes": 12
+  },
+  {
+    "Id": 2,
+    "promptId": 1,
+    "artistName": "Mike Johnson",
+    "imageUrl": "https://images.unsplash.com/photo-1570618359082-baa3c5b29e06?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-15T14:15:00Z",
+    "likes": 8
+  },
+  {
+    "Id": 3,
+    "promptId": 2,
+    "artistName": "Emma Davis",
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-16T09:45:00Z",
+    "likes": 15
+  },
+  {
+    "Id": 4,
+    "promptId": 2,
+    "artistName": "Alex Rivera",
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-16T16:22:00Z",
+    "likes": 7
+  },
+  {
+    "Id": 5,
+    "promptId": 3,
+    "artistName": "Luna Park",
+    "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-17T11:00:00Z",
+    "likes": 20
+  },
+  {
+    "Id": 6,
+    "promptId": 4,
+    "artistName": "David Kim",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-18T13:30:00Z",
+    "likes": 9
+  },
+  {
+    "Id": 7,
+    "promptId": 5,
+    "artistName": "Sophie Turner",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-19T15:45:00Z",
+    "likes": 14
+  },
+  {
+    "Id": 8,
+    "promptId": 6,
+    "artistName": "Ryan Martinez",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-20T12:15:00Z",
+    "likes": 18
+  }
+]

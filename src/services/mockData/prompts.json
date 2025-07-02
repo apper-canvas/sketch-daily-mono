@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "date": "2024-01-15",
+    "text": "Draw a cozy winter cabin with smoke curling from the chimney",
+    "category": "landscape"
+  },
+  {
+    "Id": 2,
+    "date": "2024-01-16",
+    "text": "Sketch a curious cat exploring a garden full of flowers",
+    "category": "animal"
+  },
+  {
+    "Id": 3,
+    "date": "2024-01-17",
+    "text": "Create an abstract composition using only circles and triangles",
+    "category": "abstract"
+  },
+  {
+    "Id": 4,
+    "date": "2024-01-18",
+    "text": "Draw your favorite coffee mug from different angles",
+    "category": "still-life"
+  },
+  {
+    "Id": 5,
+    "date": "2024-01-19",
+    "text": "Illustrate a person reading under a tree",
+    "category": "portrait"
+  },
+  {
+    "Id": 6,
+    "date": "2024-01-20",
+    "text": "Design a magical forest with glowing mushrooms",
+    "category": "fantasy"
+  },
+  {
+    "Id": 7,
+    "date": "2024-01-21",
+    "text": "Sketch a bustling city street from a bird's eye view",
+    "category": "architecture"
+  },
+  {
+    "Id": 8,
+    "date": "2024-01-22",
+    "text": "Draw a bouquet of wildflowers in a mason jar",
+    "category": "nature"
+  }
+]
